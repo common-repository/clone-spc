@@ -1,0 +1,63 @@
+.clone_file{
+height:30px;
+padding:5px 0 0 5px;
+margin:5px;
+display:block;
+background-color: #FFFBCC;
+border:1px solid #E6DB55;
+color: #555;
+}
+.clone_file h3 {
+display:block;
+width:150px;
+float:left;
+margin:0;
+padding-left:5px;
+line-height:25px;
+height:25px;
+font-weight:normal;
+background:#f0f0f0;
+font-size:12px;
+}
+.clone_file .newname {
+float:left;
+border:1px #c0c0c0 dotted;
+width:200px;
+height:25px;
+margin-left:5px;
+padding-left:5px;
+}
+.clone_file img, .clone_file .clon, .clone_file .del {
+margin-left:5px;
+}
+.clone_file .clon {
+border:0;
+background:url('images/clon.png') no-repeat;
+width:23px;
+height:23px;
+cursor:pointer;
+}
+.clone_file .del {
+border:0;
+background:url('images/del.png') no-repeat;
+width:23px;
+height:23px;
+cursor:pointer;
+}
+.ablock {
+color:#fff;
+padding:5px;
+background:#4581c6;
+text-decoration:none;
+}
+.radius_spc {
+-moz-border-radius: 4px; 
+-webkit-border-radius: 4px; 
+-khtml-border-radius: 4px; 
+border-radius: 4px; 
+}
+.ablock:hover {
+color:#fff;
+background:#529bee;
+}
+.logo { float:left;	margin:0 10px 0 0; }

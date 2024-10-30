@@ -1,0 +1,314 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clone S.P.C.\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-08-07 15:29+0600\n"
+"PO-Revision-Date: 2012-08-07 16:47+0600\n"
+"Last-Translator: ZetRider <zetrider@bk.ru>\n"
+"Language-Team: TTWeb <ZetRider@bk.ru>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: Z:\\xampp\\htdocs\\12000.ru\\www\\wp-content\\plugins\\clone-spc\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: Z:\\xampp\\htdocs\\12000.ru\\www\\wp-content\\plugins\\clone-spc\n"
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:42
+msgid "Cloning theme files"
+msgstr "Клонировать файлы темы"
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:43
+msgid "Around the errors? So the problem with CHMOD, click "
+msgstr "Вокруг ошибки? Возможно проблемы с SHMOD, нажмите "
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:43
+msgid "here to update the CHMOD - Dir: 0755; File: 0644 (should help)"
+msgstr "здесь чтобы обновить CHMOD - Папки - 0755, Файлы 0644 (должно помочь)"
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:52
+msgid "The field can not be empty!<br>"
+msgstr "Поле не должно быть пустым!<br>"
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:55
+msgid "Filename "
+msgstr "Имя файла "
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:55
+msgid " already exists! Think more!"
+msgstr "уже существует! Придумайте другое!"
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:58
+msgid "You can not use Russian characters!"
+msgstr "Нельзя вводить русские символы!"
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:74
+msgid "File "
+msgstr "Файл "
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:74
+msgid " successfully cloned!"
+msgstr " успешно клонирован!"
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:80
+msgid "The original name"
+msgstr "Исходное имя"
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:80
+msgid "NEW NAME"
+msgstr "Новое имя"
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:80
+msgid "clone"
+msgstr "клонировать"
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:80
+msgid "remove"
+msgstr "удалить"
+
+#: Z:\xampp\htdocs\12000.ru\www\wp-content\plugins\clone-spc/clone-spc.php:88
+msgid "Add Template Name?"
+msgstr "Добавить Template Name?"
+
+#, fuzzy
+#~ msgid ""
+#~ "Around the errors? So the problem with CHMOD, click <a href='options-"
+#~ "general.php?page=setting_clone_spc&action=chmodspc'>here to update the "
+#~ "CHMOD - Dir: 0755; File: 0644 (should help)</a>"
+#~ msgstr ""
+#~ "Вокруг ошибки? Значит проблемы с CHMOD, нажмите <a href='options-general."
+#~ "php?page=clone-spc.php&chmodspc'>здесь для обновления CHMOD - Dir: 0755; "
+#~ "File: 0644 (должно помочь)</a>"
+
+#~ msgid "Studio TTWeb"
+#~ msgstr "Студия TTWeb"
+
+#~ msgid "Creation, website promotion"
+#~ msgstr "Создание и продвижение сайтов"
+
+#~ msgid "Development of site design, logos, business cards, etc."
+#~ msgstr "Разработка дизайна сайтов, логотипов, визиток, и пр."
+
+#~ msgid "Development and translation of plugins"
+#~ msgstr "Разработка и перевод плагинов"
+
+#~ msgid "Instruction"
+#~ msgstr "Инструкция"
+
+#~ msgid "Создание шаблонов для Записей, Страниц и Категорий"
+#~ msgstr "Creating templates for Single, Pages, and Categories"
+
+#~ msgid "Студия TTWeb"
+#~ msgstr "Studio TTWeb"
+
+#~ msgid "Создание и продвижение сайтов"
+#~ msgstr "Development and promotion"
+
+#~ msgid "Разработка дизайна сайтов, логотипов, визиток, и пр."
+#~ msgstr "Development of site design, logos, business cards, etc."
+
+#~ msgid "Разработка и перевод плагинов"
+#~ msgstr "Development and transfer of plugins"
+
+#~ msgid "Описание плагина"
+#~ msgstr "Description of the plugin"
+
+#~ msgid "Как известно для категорий и страниц можно создавать свои шаблоны."
+#~ msgstr ""
+#~ "As is well known for categories and pages, you can create your own "
+#~ "templates."
+
+#~ msgid "Мануал по иерархии шаблонов wordpress тут."
+#~ msgstr "Manual on wordpress template hierarchy here."
+
+#~ msgid "В нужных случаях можно создавать шаблоны и для Записей,"
+#~ msgstr "In necessary cases, you can create templates and writing,"
+
+#~ msgid "мануал тут."
+#~ msgstr "manual here."
+
+#~ msgid ""
+#~ "Согласитесь, не удобно каждый раз лезть по FTP в папку с вашей темой и "
+#~ "создавать там копию нужного файла шаблона для страницы или категории."
+#~ msgstr ""
+#~ "Agree, not easy to climb each time the FTP folder with your theme and "
+#~ "make it a copy of the file you want a template for a page or category."
+
+#~ msgid ""
+#~ "Данный плагин делает копию файла шаблона single.php для записей, page.php "
+#~ "для страниц и category.php, archive.php для рубрик."
+#~ msgstr ""
+#~ "This plugin makes a copy of the template file for records single.php, "
+#~ "page.php for pages and category.php, archive.php for headings."
+
+#~ msgid ""
+#~ "Для шаблонов страниц, плагин автоматически добавляет код в начало файла, "
+#~ "чтобы его можно выбрать в списке тем для страниц."
+#~ msgstr ""
+#~ "For page templates, plug-in automatically adds code to the beginning of "
+#~ "the file, so you can choose from the list in order for the pages."
+
+#~ msgid ""
+#~ "В именах шаблонов можно писать только англисйкие символы и цифры, русские "
+#~ "буквы писать запрещено, прочие знаки лучше тоже не писать"
+#~ msgstr ""
+#~ "The names of templates, you can write only English characters and "
+#~ "numbers, write Russian letters is prohibited, other signs, too, is better "
+#~ "not to write"
+
+#~ msgid ""
+#~ "Пример названия нового шаблона для страницы: page-contacts.php (в форму "
+#~ "вы должны ввести только слово contacts, слово означает название шаблона, "
+#~ "слово может быть любым)"
+#~ msgstr ""
+#~ "Example name of the new template for a page: page-contacts.php (in the "
+#~ "form you should enter only the word of contacts, the word means the "
+#~ "template name, the word can be anything)"
+
+#~ msgid ""
+#~ "Пример названия нового шаблона для категории: category-1.php (в форму вы "
+#~ "должны ввести только цифры указывающие ID рубрики.)"
+#~ msgstr ""
+#~ "An example of the new template name for the category: category-1.php (in "
+#~ "the form you should enter only the digits indicating the ID column.)"
+
+#~ msgid ""
+#~ "Данный плагин так же дает возможность делать копии шаблон single.php для "
+#~ "отдельных записей из определенной категории. К примеру для категории с "
+#~ "(ID = 4 или SLUG = articles) у всех записей нам нужен отдельный шаблон "
+#~ "отображения. Как для чего и куда,"
+#~ msgstr ""
+#~ "The plugin also allows you to make copies of the template single.php for "
+#~ "individual entries from a specific category. For example for the category "
+#~ "(ID = 4 or SLUG = articles) of all entries, we need a separate template "
+#~ "display. As for what and where,"
+
+#~ msgid "читать здесь"
+#~ msgstr "read here"
+
+#~ msgid ""
+#~ "(для данной функции нужно добавить небольшой код в файл functions.php "
+#~ "вашей темы)."
+#~ msgstr ""
+#~ "(this function to add a little code in the functions.php file in your "
+#~ "theme)."
+
+#~ msgid ""
+#~ "Все зависит от настройки вашего functions.php каким образом вы "
+#~ "определяете шаблон для Записей, по ID категории или по SLUG (названию на "
+#~ "английском)."
+#~ msgstr ""
+#~ "It all depends on how your functions.php how you define a template for "
+#~ "entries for the category ID or SLUG (name in English)."
+
+#~ msgid "Все вопросы связанные с плагином задаем"
+#~ msgstr "All questions related to the plugin ask"
+
+#~ msgid "здесь."
+#~ msgstr "here."
+
+#~ msgid "Сканирование файлов"
+#~ msgstr "file Scan"
+
+#~ msgid "Адрес вашей темы:"
+#~ msgstr "Address your theme:"
+
+#~ msgid "Файл шаблона страниц:"
+#~ msgstr "The template file pages:"
+
+#~ msgid "Файл существует"
+#~ msgstr "file exists"
+
+#~ msgid "Файл не найден"
+#~ msgstr "File Not Found"
+
+#~ msgid "Файл шаблона рубрик:"
+#~ msgstr "The template file entries are:"
+
+#~ msgid "Файл шаблона архивов:"
+#~ msgstr "The template file archives:"
+
+#~ msgid "Файл шаблона записей:"
+#~ msgstr "The template file records:"
+
+#~ msgid "Создать шаблон для страниц"
+#~ msgstr "Create a template for pages"
+
+#~ msgid "Файл page.php существует"
+#~ msgstr "Page.php file exists"
+
+#~ msgid "Файл page.php не найден"
+#~ msgstr "Page.php file not found"
+
+#~ msgid "Перед созданием копии шаблона прочтите"
+#~ msgstr "Before you create a copy of the template, please read"
+
+#~ msgid "Поле не должно быть пустым!"
+#~ msgstr "Field should not be empty!"
+
+#~ msgid "Можно вводить только англисйкие буквы и/или цифры!"
+#~ msgstr "You can only enter letters and / or numbers!"
+
+#~ msgid "Имя файла"
+#~ msgstr "filename"
+
+#~ msgid "уже существует! Придумайте другое!"
+#~ msgstr "already exists! Think more!"
+
+#~ msgid "Файл шаблона создан, название файла"
+#~ msgstr "The template file is created, the file name"
+
+#~ msgid "Файла шаблона страниц нет в вашей теме"
+#~ msgstr "Template file is not in the pages of your topic"
+
+#~ msgid "Создать шаблон для рубрики (категории) на основе файла category.php"
+#~ msgstr ""
+#~ "Create a template for the headings (categories) based on file category.php"
+
+#~ msgid "Файл category.php существует"
+#~ msgstr "Category.php file exists"
+
+#~ msgid "Файл category.php не найден"
+#~ msgstr "Category.php file not found"
+
+#~ msgid "Создать шаблон для рубрики из файла category.php"
+#~ msgstr "Create a template for a column from a file category.php"
+
+#~ msgid "Можно вводить только цифры!"
+#~ msgstr "You can enter numbers only!"
+
+#~ msgid "Файла шаблона категорий нет в вашей теме"
+#~ msgstr "Template file is not in the categories of your topic"
+
+#~ msgid "Создать шаблон для рубрики (категории) на основе файла archive.php"
+#~ msgstr ""
+#~ "Create a template for the headings (categories) based on file archive.php"
+
+#~ msgid "Файл archive.php существует"
+#~ msgstr "Archive.php file exists"
+
+#~ msgid "Файл archive.php не найден"
+#~ msgstr "Archive.php file not found"
+
+#~ msgid "Создать шаблон для рубрики из файла archive.php"
+#~ msgstr "Create a template for a column from a file archive.php"
+
+#~ msgid "Создать шаблон для записей на основе файла single.php"
+#~ msgstr "Create a template for entries from the file single.php"
+
+#~ msgid "Файл single.php существует"
+#~ msgstr "Single.php file exists"
+
+#~ msgid "Файл single.php не найден"
+#~ msgstr "Single.php file not found"
+
+#~ msgid "Создать шаблон для записи из файла single.php"
+#~ msgstr "Create a template for recording the file single.php"
+
+#~ msgid "Файла шаблона записей нет в вашей теме"
+#~ msgstr "Template file there are no entries in your subject"
+
+#~ msgid "Список всех файлов вашей темы:"
+#~ msgstr "List of files in your theme:"
